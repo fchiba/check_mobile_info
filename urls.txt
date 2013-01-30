@@ -1,0 +1,8 @@
+http://www.nttdocomo.co.jp/service/developer/make/content/spec/flash/index.html
+http://www.nttdocomo.co.jp/service/developer/make/content/spec/useragent/index.html
+http://www.au.kddi.com/ezfactory/tec/spec/new_win/ezkishu.html
+http://creation.mb.softbank.jp/mc/terminal/terminal_info/terminal_useragent.html
+http://creation.mb.softbank.jp/mc/terminal/terminal_info/terminal_display.html
+http://www.nttdocomo.co.jp/service/developer/make/content/ip/index.html
+http://www.au.kddi.com/ezfactory/tec/spec/ezsava_ip.html
+http://creation.mb.softbank.jp/mc/tech/tech_web/web_ipaddress.html
